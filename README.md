@@ -1,2 +1,2 @@
-# Vexora-AI
+# Vexora
 AI Game Builder
